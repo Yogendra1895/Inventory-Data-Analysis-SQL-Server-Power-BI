@@ -26,3 +26,9 @@ And on the second page we have total profit, total loss and average daily loss.
            
 ## DAX Formulas used for KPIs
 ![DAX Formulas](https://github.com/user-attachments/assets/91f418a4-901a-4952-90bd-469fcf8a834c)
+
+## Dashboard Snapshot
+![snap 1](https://github.com/user-attachments/assets/6a8205b2-44d3-4c2a-a222-d1f1b2c0bba3)
+![snap 2](https://github.com/user-attachments/assets/85a783cb-c8f9-4a11-8b22-f5ca1cd0fd85)
+
+
